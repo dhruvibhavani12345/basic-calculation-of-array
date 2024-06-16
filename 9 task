@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>basic calcuation of array</title>
+</head>
+<body>
+    <script>
+        // ======task-1======== 
+
+        // let arr=["php","angular js","android","ruby","python"];
+        // arr.sort();
+        // console.log(arr);
+
+        // ========task-2========== 
+
+      
+        // let arr=["php","angular js","android","ruby","python"];
+        // arr.reverse();
+        // console.log(arr);
+
+        // ==========task-3========== 
+
+        // let arr=["10","20","30","40","50"];
+        // arr.pop();
+        // console.log(arr);       
+
+        // =======task-4========= 
+
+        // let arr=["10","20","30","40","50"];
+        // arr.unshift("200");
+        // console.log(arr);
+
+        // =========task-5======== 
+
+
+        // let languages = ['JAVASCRIPT', 'HTML', 'CSS'];
+        // let arr = languages.map(lang => lang.toLowerCase());
+        // console.log(arr);
+
+        // ===task-6====== 
+
+    //    let str= "hellow word";
+    //    let arr = str.split('');
+    //    console.log(arr);
+
+
+
+
+
+    //    ===========task-7========== 
+
+    // let numbers = [1, 2, 3, 4, 5];
+    // let add = numbers.map((num, sum = 0) => sum = sum + num);
+    // console.log(add);
+
+        
+
+
+
+    // =========task-8========= 
+
+    // let Array = [4, -45, 0, 2, -70, -8, 10, 89 ];
+    // let negative = Array.filter(neg => neg < 0);
+    // console.log(negative);
+
+    // ====task-9========= 
+
+    // let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    // let str = arr.toString(); 
+    // console.log(str);
+
+
+    </script>
+</body>
+</html>
